@@ -1,0 +1,38 @@
+********Excessive Global Variables********
+Number of global variables: 2
+x, y, 
+********Long Methods********
+Number of occurences: 1
+Function: foo at line number: 22
+********Long Parameter List********
+Number of occurences: 1
+Instance at line: 22
+********Extra Bind********
+Number of occurences: 0
+********Parameter Argument Mismatch********
+Number of occurences: 1
+Instance at line: 5
+********Nested Callbacks********
+Number of occurences: 0
+********Excessive Nesting********
+Number of occurences: 0
+********Short/Long Variable Names********
+Number of occurences: 2
+Short Variable: x at line number: 1
+Short Variable: y at line number: 4
+********Complex Switch********
+Number of occurences: 1
+Instance at line: 7
+********Variable Re-Assignment********
+Number of occurences: 2
+Variable x gets type re-assigned at line number: 3
+Variable x gets type re-assigned at line number: 23
+********Empty Catch********
+Number of occurences: 1
+Instance at line: 20
+********Assignment in Conditionals********
+Number of occurences: 1
+Instance at line: 2
+********Chained Message********
+Number of occurences: 1
+Instance at line: 6

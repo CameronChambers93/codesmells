@@ -1,0 +1,5 @@
+********Excessive Global Variables********
+Number of global variables: 6
+shutter_x, info_x, id, all_tds, getAJAX, switcher_x, ********Long Methods********
+Number of instances: 1
+Function: getHTTPObject at 66

@@ -1,0 +1,9 @@
+/build
+/antbuild
+/dist
+/out
+/doc
+.idea/workspace.xml
+**/*.iml
+/local-development.properties
+!/test/expected/**
