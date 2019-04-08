@@ -21,6 +21,6 @@ Over the course of 10 weeks we achieved the following:
 
 Most of the code we wrote is contained within <b>src/dk/brics/tajs/monitoring/Monitoring.java</b>. Most of the methods we implement are fired when specific AST nodes are generated or processed.
 
-<a href="https://www.overleaf.com/read/ydhpyxyxrvby">Link to our paper</a>
+<a href="https://drive.google.com/open?id=1SBVO0elLIIsIf76855yEZpxrwsDbUguW">Link to our paper</a>
 
 <a href="https://drive.google.com/open?id=1NL-xIbSGnnDXiO-AmE5bbpg49GrVgaEj">Link to our presentation poster</a>
